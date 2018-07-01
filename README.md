@@ -1,4 +1,4 @@
-# Learn RxJS
+# Learn RxJS (check update)
 
 Clear examples, explanations, and resources for RxJS.
 
